@@ -1,2 +1,3 @@
 # bookbot
-Build a bookbot in python for Boot.Dev
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
